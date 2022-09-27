@@ -27,12 +27,13 @@ export const projects = [
 
 export const skills = [
   "HTML, CSS, and JavaScript",
-  "NodeJS",
-  "ReactJS",
-  "NextJS",
-
+  "NodeJS,Express",
+  "ReactJS, NextJS",
+  "Git, Github, Bitbucket",
+  "VS Code, Ubuntu",
   "MongoDB, Postgres",
-  " Netlify, Heroku",
-  "Bootstrap, Tailwind, Blueprint",
-  "Trello, Miro, Figma",
+  "Netlify, Heroku, Vercel",
+  "Bootstrap, Tailwind, Blueprint, Material UI",
+  "RestAPI, Sass, Expo",
+  "Jira, Trello, Miro, Figma, Adobe"
 ];

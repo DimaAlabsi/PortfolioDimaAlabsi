@@ -23,7 +23,7 @@ export default function Navbar() {
         </nav>
         <a
           download="CV-DimaAlabsi.pdf"
-          href="./resumedimalabsi.pdf"
+          href="./resumedimalabsinew.pdf"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           Download My CV
           <ArrowDownIcon className="w-4 h-4 ml-1" />
